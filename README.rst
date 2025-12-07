@@ -8,8 +8,3 @@ At `Anuvartik Mirji Bharatesh Institute of Technology <https://en.wikipedia.org/
 +----------------------------------------+---------------------------------------+
 |                                        |                                       |
 +----------------------------------------+---------------------------------------+
-
-
-<!--
-**opensource-ambit/opensource-ambit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
